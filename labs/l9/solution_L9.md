@@ -17,4 +17,4 @@ I created a new workflow in n8n that receives an event name via a Webhook node (
 **3. Final Execution Result**
 *(Visible: Browser window showing the JSON response)*
 ![Result Screenshot](./a_event.png)
-![2nd Result Screenshot](./a_metting.png)
+![2nd Result Screenshot](./a_meeting.png)
